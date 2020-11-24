@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4265
   title: སངས་རྒྱས་བཀྲ་ཤིས་སམ་སྲོག་བདག་རྡོ་རྗེ་དཔའ་བོ་རྩལ་གྱི་བྱུང་བ་བརྗོད་པའི་ས་བོན་ཉེར་མཁོ
-  volume: ''
+  volume:
+    fe66df011e294304bc9acb3ba8023427:
+      image_group_id: I1KG4991
+      title: Volume 1 of sangs rgyas bkra shis sam srog bdag rdo rje dpa' bo rtsal
+        gyi byung ba brjod pa'i sa bon nyer mkho
+      volume_number: 1
+      total_pages: 50
   author: ''
+ebook_metadata:
+  title: སངས་རྒྱས་བཀྲ་ཤིས་སམ་སྲོག་བདག་རྡོ་རྗེ་དཔའ་བོ་རྩལ་གྱི་བྱུང་བ་བརྗོད་པའི་ས་བོན་ཉེར་མཁོ
+  author: ''
+  sku: P000545
+  cover: cover.jpg
+  layers:
+  - pagination
